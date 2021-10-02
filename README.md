@@ -1,12 +1,12 @@
 # Clenvon
 Clenvon stands for C Language Environment
 
-Clenvon is a small C# application which assists with the visual studio c/c++ compiler.
+Clenvon is a small C# application which assists with the visual studio c/c++ compiler. This application will only help with compiling C++ applications. It does not support C.
 
 # Prerequisites
 .NET Core
 
-Visual Studio 2019 Developer Tools for the cl.exe.
+Visual Studio 2019 Developer Tools for the C/C++ Compiler.
 
 # Usage
 First, you'll need to create a document which will be able to compile your application. To do this, create a blank text file somewhere on your Desktop or somewhere on your computer. You can call this file 'clenvon-environment-example.txt' as an example. Inside the text file, write project(). Inside the parenthesis, write the root directory of your project. Example: C:\Users\exampleuser\exampleprogram. Then on the next line, write add-class(). Inside the parenthesis, write the name of the class file. Example, main.cpp. Finally, make a new line and type 'compile'. This will tell Clenvon to get CL.exe ready for compiling your project.
