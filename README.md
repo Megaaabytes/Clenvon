@@ -15,3 +15,4 @@ Now, open Clenvon. Clenvon as of right does not support command line arguments b
   
 # Visual Examples
 ![Alt text](/images/clenvon-example.png?raw=true)
+![Alt text](/images/compile-example.png?raw=true)
